@@ -2,7 +2,7 @@ $(function () {
     $('.banner-slider').slick({
         slidesToShow:1,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         arrows: false,
         autoplaySpeed: 2000,
         dots: true,
@@ -51,7 +51,7 @@ $(function () {
     $('.feedback-slider').slick({
         slidesToShow:1,
         slidesToScroll: 1,
-        autoplay: false,
+        autoplay: true,
         arrows: false,
         autoplaySpeed: 2000,
         dots: true,
