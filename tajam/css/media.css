@@ -1,0 +1,529 @@
+/**********************  Medium  **********************/
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu-bar {
+        color: #fff;
+    }
+
+    .banner-text p {
+        padding: 0 0 27px 0;
+    }
+
+    #banner {
+        padding-top: 144px;
+        padding-bottom: 89px;
+    }
+
+    #banner .slick-dots {
+        bottom: -70px;
+    }
+
+    .navbar-nav {
+        background: #261651;
+        text-align: center;
+    }
+
+    .exp-item p {
+        padding: 0 0px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 25px 0;
+    }
+
+    #story {
+        padding-top: 34px;
+        padding-bottom: 40px;
+    }
+
+    #expertise {
+        padding-top: 28px;
+        padding-bottom: 35px;
+    }
+
+    .team-over i {
+        font-size: 18px;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    .s-exp {
+        padding-top: 0 !important;
+    }
+
+    #video {
+        padding-top: 83px;
+        padding-bottom: 92px;
+    }
+
+    #expertise .row.pt-5 {
+        padding: 5px 0 !important;
+    }
+
+    #team .col-sm-6 {
+        padding-bottom: 15px;
+    }
+
+    .team-last-text {
+        padding-top: 14px !important;
+    }
+
+    .nav-pills .nav-link {
+        font-size: 15px;
+        padding: 3px 7px;
+        margin: 0 7px;
+    }
+
+    #team {
+        padding-top: 37px;
+        padding-bottom: 48px;
+    }
+#slider .slick-dots {
+    bottom: -65px;
+}
+    #slider {
+    padding-top: 30px;
+    padding-bottom: 103px;
+}
+    #work {
+        padding-top: 39px;
+        padding-bottom: 48px;
+    }
+#client {
+    padding-top: 42px;
+    padding-bottom: 8px;
+}
+    .work-last {
+        padding-top: 1rem !important;
+    }
+
+    .slider-text p {
+        padding: 0 28px;
+    }
+
+    .logo-item .col-sm-6 {
+        text-align: center;
+    }
+
+    .footer-col-1 p {
+        padding-right: 0;
+    }
+
+    .footer-col-2 p {
+        padding-right: 0;
+    }
+
+    .footer-col-10 {
+        padding-left: 0 !important;
+    }
+
+    .copy span a {
+        padding-right: 0 !important;
+    }
+
+    .copy span {
+        padding-right: 2px;
+    }
+
+    .copy-last {
+        padding: 0 !important;
+    }
+
+    .navbar-toggler.menu-bar.collapsed i {
+        transform: rotate(0deg);
+    }
+
+    .navbar-toggler.menu-bar i {
+        transform: rotate(-180deg);
+        transition: all linear .3s;
+    }
+
+    button:focus {
+        outline: none !important;
+    }
+#inlineFormInput {
+        font-size: 14px;
+    }
+.footer-col-3 h3 {;
+    text-align: center;
+}
+.footer-col-3 h3 a i {
+    margin-right: 22px;
+    margin-bottom: 10px;
+}
+    .last-footer{
+        padding-left: 15px!important;
+    }
+
+
+
+
+
+}
+
+/**********************  Small  **********************/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu-bar {
+        color: #fff;
+    }
+
+    .banner-text p {
+        padding: 0 0 27px 0;
+    }
+
+    #banner {
+        padding-top: 136px;
+        padding-bottom: 89px;
+    }
+
+    #banner .slick-dots {
+        bottom: -68px;
+    }
+
+    .navbar-nav {
+        background: #261651;
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 25px 0;
+    }
+
+    #story {
+        padding-top: 34px;
+        padding-bottom: 45px;
+    }
+
+    #video {
+        padding-top: 80px;
+        padding-bottom: 80px;
+    }
+
+    .exp-item p {
+        padding: 0 0px;
+    }
+
+    .s-exp {
+        padding-top: 0 !important;
+    }
+
+    #expertise {
+        padding-top: 35px;
+        padding-bottom: 37px;
+    }
+
+    #expertise .row.pt-5 {
+        padding: 5px 0 !important;
+    }
+
+    #team .col-sm-6 {
+        padding-bottom: 15px;
+    }
+
+    #team {
+        padding-top: 36px;
+        padding-bottom: 43px;
+    }
+
+    .nav-pills .nav-link {
+        font-size: 15px;
+        padding: 3px 7px;
+        margin: 0 7px;
+    }
+
+    #work {
+        padding-top: 31px;
+        padding-bottom: 31px;
+    }
+
+    .work-last {
+        padding-top: 1rem !important;
+    }
+
+    .slider-text p {
+        padding: 0 28px;
+    }
+
+    #slider .slick-dots {
+        bottom: -63px;
+    }
+
+    #slider {
+        padding-top: 40px;
+        padding-bottom: 97px;
+    }
+
+    #client .col-lg-6.pr-5 {
+        padding-right: 15px !important;
+        padding-bottom: 45px;
+    }
+
+    .logo-item .col-sm-6 {
+        text-align: center;
+    }
+
+    #client {
+        padding-top: 35px;
+        padding-bottom: 25px;
+    }
+
+    .footer-col-1 p {
+        padding-right: 0;
+    }
+
+    .footer-col-2 p {
+        padding-right: 0;
+    }
+
+    .footer-col-10 {
+        padding-left: 0 !important;
+    }
+
+    .footer-col-20 {
+        text-align: right;
+    }
+
+    .copy span a {
+        padding-right: 0 !important;
+    }
+
+    .copy span {
+        padding-right: 2px;
+    }
+
+    .copy-last {
+        padding: 0 !important;
+    }
+
+    #footer {
+        padding-top: 27px;
+        padding-bottom: 55px;
+    }
+
+    .navbar-toggler.menu-bar.collapsed i {
+        transform: rotate(0deg);
+    }
+
+    .navbar-toggler.menu-bar i {
+        transform: rotate(-180deg);
+        transition: all linear .3s;
+    }
+
+    button:focus {
+        outline: none !important;
+    }
+
+}
+
+/**********************  Extra Small  **********************/
+
+@media (max-width: 575.98px) {
+    .menu-bar {
+        color: #fff;
+    }
+
+    .navbar-nav {
+        background: #261651;
+        text-align: center;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 20px 0;
+    }
+
+    .banner-text p {
+        padding: 0 10px;
+    }
+
+    #banner {
+        padding-top: 131px;
+        padding-bottom: 76px;
+    }
+
+    #banner .slick-dots {
+        bottom: -65px;
+    }
+
+    .story-img img {
+        width: 50%;
+    }
+
+    .story-txt {
+        text-align: center;
+        padding-top: 27px;
+    }
+
+    #story {
+        background: #fff;
+        padding-top: 27px;
+        padding-bottom: 41px;
+    }
+
+    #video {
+        padding-top: 60px;
+        padding-bottom: 54px;
+    }
+
+    #expertise {
+        padding-top: 34px;
+        padding-bottom: 15px;
+    }
+
+    .exp-text p {
+        padding: 0 15px;
+    }
+
+    .s-exp {
+        padding: 0 !important;
+    }
+
+    .s-exp p {
+        padding: 0 8px;
+    }
+
+    #expertise .row.pt-5 {
+        padding: 5px 0 !important;
+    }
+
+    #team {
+        padding-top: 30px;
+        padding-bottom: 43px;
+    }
+
+    .team-txt h3 {
+        font-size: 20px;
+    }
+
+    .team-txt p {
+        font-size: 13px;
+    }
+
+    #team .col-lg-3 {
+        padding-bottom: 20px;
+    }
+
+    .team-last-text {
+        padding-top: 0 !important;
+    }
+
+    .team-last-text h4 {
+        font-size: 13px;
+    }
+
+    .team-first-text {
+        padding-bottom: 25px !important;
+    }
+
+    .work-text p {
+        padding: 0 14px;
+    }
+
+    .nav-pills .nav-link {
+        font-size: 14px;
+        padding: 3px 7px;
+        margin: 5px 7px;
+    }
+
+    .nav.nav-pills {
+        padding-bottom: 18px;
+        ;
+    }
+
+    .work-last {
+        padding-top: 12px !important;
+    }
+
+    #work {
+        padding-top: 22px;
+        padding-bottom: 39px;
+    }
+
+    .slider-text p {
+        padding: 0;
+        padding-bottom: 12px;
+    }
+
+    #slider {
+        padding-top: 38px;
+        padding-bottom: 62px;
+    }
+
+    #slider .slick-dots {
+        bottom: -45px;
+    }
+
+    #client .col-lg-6 {
+        padding-right: 15px !important;
+    }
+
+    .client-form {
+        padding-bottom: 35px;
+    }
+
+    .logo-item {
+        text-align: center;
+    }
+
+    #client {
+        padding-top: 30px;
+        padding-bottom: 19px;
+    }
+
+    .footer-col-2 h3 {
+        padding-bottom: 4px;
+    }
+
+    .footer-col-2 p {
+        padding-right: 0;
+    }
+
+    .footer-col-10 {
+        padding-left: 0 !important;
+    }
+
+    .footer-col-3 h3 {
+        padding-bottom: 10px;
+    }
+
+    #inlineFormInput {
+        font-size: 14px;
+    }
+
+    .copy span a {
+        padding-right: 0;
+    }
+
+    .copy-last {
+        text-align: left !important;
+    }
+
+    .copy-item {
+        padding-top: 15px;
+    }
+
+    #footer {
+        padding-top: 27px;
+        padding-bottom: 7px;
+    }
+
+    .footer-col-1 p {
+        padding-right: 17px;
+    }
+
+    .back-top i {
+        right: 10px;
+    }
+
+    .navbar-toggler.menu-bar.collapsed i {
+        transform: rotate(0deg);
+    }
+
+    .navbar-toggler.menu-bar i {
+        transform: rotate(-180deg);
+        transition: all linear .3s;
+    }
+
+    button:focus {
+        outline: none !important;
+    }
+}
